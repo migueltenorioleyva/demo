@@ -1,1 +1,2 @@
 prueba de reset --soft
+cambio checkout
